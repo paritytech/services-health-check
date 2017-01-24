@@ -1,5 +1,7 @@
 # [Parity](https://ethcore.io/parity.html) services health check
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ethcore/services-health-check.svg)](https://greenkeeper.io/)
+
 [![Build Status][travis-image]][travis-url] [![Join the chat at https://gitter.im/ethcore/parity][gitter-image]][gitter-url]
 
 [travis-image]: https://travis-ci.org/ethcore/services-health-check.svg
