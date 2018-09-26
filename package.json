@@ -25,7 +25,7 @@
     "tape": "^4.6.3"
   },
   "devDependencies": {
-    "husky": "^0.13.1",
+    "husky": "^1.0.0",
     "standard": "^8.6.0"
   }
 }
